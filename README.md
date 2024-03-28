@@ -1,0 +1,1 @@
+Assembling an FM radio was always interesting for me , like another enthusiasts. Outside of the TDA7000 IC there is only one tunable LC circuit for the local oscillator . So complete FM radio can be made enough small to be fit inside cigarette lighter.The audio output of the receiver is amplified through LM386 amplifier chip that can drive a small speaker or headphones.
